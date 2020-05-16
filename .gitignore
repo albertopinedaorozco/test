@@ -1,0 +1,4 @@
+.env
+debug/*
+build/*
+node_modules/*
